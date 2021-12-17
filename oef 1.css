@@ -1,15 +1,29 @@
 
 
+
+
    .image {
-       width: 50%;
-       height: 50%;
+         width: 70%;
+         height: 70%;
+
       }
 
    th {
 
        text-align: center;
        vertical-align: middle;
+      }
 
+   #aside {
+       float: left;
+       width: 30%;
    }
+
+   #article{
+       width: 70%;
+   }
+
+
+
 
 
