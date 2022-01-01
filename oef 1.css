@@ -2,16 +2,8 @@
 
 
 
-   .image {
-         width: 70%;
-         height: 70%;
 
-      }
-
-
-
-
-   #page, #pageheader, #pagenav, #pagenavul, #articlecenter, #asideright{
+   #page, #pageheader, #pagenav, #pagenavul, #articlecenter, #asideright {
        margin:0;
        padding:0;
    }
@@ -55,6 +47,16 @@
        text-decoration:none;
        text-align: center;
        color:black;
+   }
+
+   #asideright {
+       float: right;
+       width: 40%;
+
+   }
+   #image {
+       width: 70%;
+       height: 70%;
    }
 
 
